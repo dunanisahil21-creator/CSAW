@@ -8,7 +8,7 @@ tooling were produced by the model; no hardware was written by a human.
 > (The challenge rules accept "comprehensive logs *or* a document containing links to chat
 > histories." Paste the shareable conversation link above for the complete verbatim record.)
 
-Model: Claude (Anthropic), run in an agentic **Claude Code** environment with shell, Icarus
+Model: Claude (Anthropic), run in an agentic **Claude web-app environment (with code execution)** environment with shell, Icarus
 Verilog, and C-compiler tool access. Interaction style: autonomous generate → simulate → inspect →
 repair loops. Each entry below shows the prompt intent and a condensed record of the model's
 reply/actions.
