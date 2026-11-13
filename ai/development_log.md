@@ -6,6 +6,11 @@ entirely by the model via tool-assisted iteration.
 
 ---
 
+## Process note — course correction
+An initial pass mis-targeted the challenge: it built an RTL key-leak Trojan on a provided AES core and stood up the TrojanGYM GNN detector. On re-reading the qualifier spec, the work was redone on the correct target — the recovered iCE40 LES cipher (below). The TrojanGYM detector from that first pass was reused to evaluate the stealth of the final Trojan (see `evaluation/`).
+
+---
+
 ## Phase 0 — Ingest the challenge
 **Prompt:** "Here is the qualifier package (bitstream, IP doc, SPI test script, block diagrams).
 Reverse-engineer it and build the best possible submission."
