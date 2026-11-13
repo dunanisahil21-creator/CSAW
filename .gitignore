@@ -1,0 +1,3 @@
+build_*
+*.vcd
+recovery/design.asc
