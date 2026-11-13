@@ -1,7 +1,7 @@
 # Development Log — AI-Assisted Generation
 
 Chronological record of the AI-driven workflow. Each phase lists the human request (prompt
-intent), what the model (Claude, agentic Claude Code) did, and the output. Hardware was produced
+intent), what the model (Claude, agentic Claude-web application) did, and the output. Hardware was produced
 entirely by the model via tool-assisted iteration.
 
 ---
