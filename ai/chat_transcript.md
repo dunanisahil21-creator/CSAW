@@ -4,7 +4,7 @@ This is a faithful record of the human prompts and the AI's (Claude, Anthropic) 
 responses used to produce this submission. It complements `development_log.md`. All hardware and
 tooling were produced by the model; no hardware was written by a human.
 
-> **Live chat history:** `__PASTE YOUR claude.ai SHARE LINK HERE__`
+> **Live chat history:** `https://claude.ai/share/b66bc6c1-675a-47cb-9074-5fada6979376`
 > (The challenge rules accept "comprehensive logs *or* a document containing links to chat
 > histories." Paste the shareable conversation link above for the complete verbatim record.)
 
